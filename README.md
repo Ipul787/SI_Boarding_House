@@ -19,7 +19,7 @@ Pap!Kos dibangun menggunakan [Laravel](http://laravel.com), the best existing PH
 * Install dependencies: `composer install ; npm install ; npm run dev`
 * Run `cp .env.example .env` for create .env file
 * Run `php artisan migrate --seed` for migration database
-* Detail login, Email : `admin@papikos.com` Password `1234567`
+* Detail login, Email : `admin@papikos.com` Password `12345678`
 
 ## Changelog
 
